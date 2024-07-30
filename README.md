@@ -7,7 +7,6 @@
 <div><br>
   <a href="https://github.com/jessicatilopes">
   <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicatilopes2&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="260em" align="right" alt="Jessica draw" src="https://github.com/jessicatilopes2/api-products/assets/110408254/7a1d34f7-c224-4371-8f81-74c6e16e4d60"/>
     
  <br>
 </div>
