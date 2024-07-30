@@ -1,5 +1,5 @@
 <div style="display: inline_block" align:"center"> 
-  <h2> Jéssica Lopes </h2>
+  <h2> Jéssica Lopes Duarte Sena </h2>
 </div>
  
 ### Olá! Bem Vindo ao meu Perfil.
